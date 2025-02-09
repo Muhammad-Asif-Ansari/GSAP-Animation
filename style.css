@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: black;
+}
+.box1{
+    background-color: darkcyan;
+    width:200px;
+    height:200px;
+}
+
+
+.box2{
+    background-color:chocolate;
+    width:200px;
+    height:200px;
+}
+
+.box3{
+    background-color: rgb(123, 81, 238);
+    width:200px;
+    height:200px;
+}
